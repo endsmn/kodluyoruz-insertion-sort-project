@@ -45,10 +45,10 @@ Best case: O(n)
 4- [2,3,5,7,8|9,4,15,6]
 ```
 
-# Usage
+# Contributing
 
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 
-# Licence
+# License
 
 [MIT](https://choosealicense.com/licenses/mit/)
